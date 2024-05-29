@@ -8,4 +8,4 @@ Javascript
 jQuery
 
 ------------
-https://ryankamil.github.io/website-portfolio2/
+Visit to link : https://ryankamil.github.io/website_sederhana/
